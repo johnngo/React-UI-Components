@@ -1,5 +1,9 @@
 Link to CodePen
+    * Social Card
     https://codepen.io/johnngo/pen/NYJWKP
+    * Calculator
+    https://codepen.io/johnngo/pen/BreyeR
+
 
 # React-UI-Components
 
